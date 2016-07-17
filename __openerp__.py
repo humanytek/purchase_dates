@@ -3,7 +3,7 @@
     'version': '1.0',
     'author': 'Humanytek',
     'website': 'http://humanytek.com',
-    'depends': [],  # TODO [IMP]
+    'depends': ['purchase'],
     'data': [
         'views/purchase_dates.xml',
     ]
