@@ -1,4 +1,5 @@
 from openerp import api, fields, models
+from openerp.exceptions import ValidationError
 
 
 class PurchaseDates(models.Model):
