@@ -1,3 +1,3 @@
 Purchase Dates
 ==============
-TODO [IMP]
+Add start and final date to the purchase form
