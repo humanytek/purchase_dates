@@ -29,3 +29,9 @@ msgstr "Pedido de compra"
 #: field:purchase.order,start_date:0
 msgid "Start date"
 msgstr "Fecha inicial"
+
+#. module: purchase_dates
+#: code:addons/purchase_dates/models/purchase_dates.py:15
+#, python-format
+msgid "The start date cannot be greater than final date"
+msgstr "La fecha de inicio no puede ser mayor a la final"
